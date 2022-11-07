@@ -33,3 +33,17 @@ ul li {
 #burn * {
   margin: 5px;
 }
+
+body{
+  background-color: orange;
+}
+
+h1{
+  color:  orangered;
+  border: solid orangered;
+}
+
+h3{
+  color: orangered;
+  border: dotted orangered;
+}
